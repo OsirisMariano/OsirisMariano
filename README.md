@@ -1,6 +1,7 @@
 ### Hi, I'm Osiris Mariano! :D
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/osiris.mariano/)](https://www.instagram.com/osiris.mariano/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/osiris.mariano/)](https://www.instagram.com/osiris.mariano/) [![Linkeding Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/osirismariano/)](https://www.linkedin.com/in/osirismariano/)
+
 
 <a href="https://github.com/osirismariano"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=osirismariano&show_icons=true&theme=whitek&include_all_commits=true&count_private=true"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osirismariano&layout=compact&langs_count=7&theme=white"/>
