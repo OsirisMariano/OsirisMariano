@@ -1,7 +1,6 @@
 ### Hi, I'm Osiris Mariano!
 
 [![Linkeding Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/osirismariano/)](https://www.linkedin.com/in/osirismariano/)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white%link=https://dev.to/osirismariano)](https://dev.to/osirismariano)
 
 ### Operating System:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
